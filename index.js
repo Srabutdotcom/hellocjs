@@ -1,0 +1,1 @@
+exports.hellocjs = (str) => str.toUpperCase()
